@@ -24,9 +24,9 @@ The system provides a robust interface to manage movie records. A key constraint
 - **Graph-Based Recommendations**: Suggests movies based on connectivity in the graph (BFS/DFS).
 - **Degrees of Separation**: Finds the shortest path between two movies or actors using Breadth-First Search (BFS).
 - **CRUD Operations**: Complete support for adding, updating, and removing movie records.
-- 
-##Compile the project:
+
+## Compile the project:
 g++ "24I-0118_24I-2013_DS Project.cpp" -o MovieManager
 
-##Run the executable:
+## Run the executable:
 ./MovieManager
