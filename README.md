@@ -25,8 +25,13 @@ The system provides a robust interface to manage movie records. A key constraint
 - **Degrees of Separation**: Finds the shortest path between two movies or actors using Breadth-First Search (BFS).
 - **CRUD Operations**: Complete support for adding, updating, and removing movie records.
 
-## Compile the project:
+## 💻 Installation & Usage
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER.git](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER.git)
+
+## Compile:
 g++ 24I-0118_24I-2013_DS Project.cpp -o MovieManager
 
-## Run the executable:
+## Run:
 ./MovieManager
