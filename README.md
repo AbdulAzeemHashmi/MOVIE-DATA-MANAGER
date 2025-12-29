@@ -26,7 +26,7 @@ The system provides a robust interface to manage movie records. A key constraint
 - **CRUD Operations**: Complete support for adding, updating, and removing movie records.
 
 ## Compile the project:
-g++ "24I-0118_24I-2013_DS Project.cpp" -o MovieManager
+g++ 24I-0118_24I-2013_DS Project.cpp -o MovieManager
 
 ## Run the executable:
 ./MovieManager
