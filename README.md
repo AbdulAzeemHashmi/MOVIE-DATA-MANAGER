@@ -33,5 +33,4 @@ The system provides a robust interface to manage movie records. A key constraint
 ## Compile & Run:
    ```bash
    g++ 24I-0118_24I-2013_DS Project.cpp -o MovieManager
-
    ./MovieManager
