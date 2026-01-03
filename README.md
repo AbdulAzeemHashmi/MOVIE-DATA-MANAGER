@@ -40,6 +40,3 @@ The system provides a robust interface to manage movie records. A key constraint
    ```bash
    ./MovieManager
    ```
-   ./MovieManager
-
-
