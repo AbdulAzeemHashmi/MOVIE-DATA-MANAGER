@@ -29,8 +29,17 @@ The system provides a robust interface to manage movie records. A key constraint
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER.git](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER.git)
-
-## Compile & Run:
+   ```
+   
+## Compile:
    ```bash
    g++ 24I-0118_24I-2013_DS Project.cpp -o MovieManager
+   ```
+
+## Run:
+   ```bash
    ./MovieManager
+   ```
+   ./MovieManager
+
+
