@@ -1,6 +1,6 @@
 # Movie Data Manager (C++ No-STL)
 
-A comprehensive **Movie Management System** built as part of the Data Structures course (Fall 2025) at **FAST-NUCES, Islamabad**. Designed to handle, search, and analyze the IMDb 5000 movie dataset efficiently using custom-built data structures.
+A comprehensive **Movie Management System** built as part of the Data Structures course (Fall 2025) at **FAST-NUCES, Islamabad**. Designed to handle, search, and analyze the IMDb 5000 movie dataset efficiently using custom-built data structures.    
 
 > **Key Constraint:** The C++ Standard Template Library (STL) is strictly prohibited. Every data structure, from Linked Lists to Graphs, is implemented from scratch.
 
