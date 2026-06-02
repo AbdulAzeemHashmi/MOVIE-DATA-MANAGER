@@ -8,10 +8,10 @@ A comprehensive **Movie Management System** built as part of the Data Structures
 
 ## Team Members
 
-| Name | Roll Number |
-|------|-------------|
-| Abdul Ghafoor | 24I-0118 |
-| Abdul Azeem | 24I-2013 |
+| Name | Roll Number | Email |
+|------|-------------|--------------------|
+| Abdul Ghafoor | 24I-0118 | i240118@nu.edu.pk |
+| Abdul Azeem | 24I-2013 | i242013@nu.edu.pk |
 
 ---
 
