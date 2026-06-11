@@ -91,6 +91,9 @@ g++ "24I-0118_24I-2013_DS Project.cpp" -o MovieManager
 12.  Find Co-Actors
 13.  Exit
 ```
+
+![Movies Manager Menu](https://github.com/AbdulAzeemHashmi/Movie-Data-Manager/blob/main/Screenshot%20from%202026-06-11%2020-53-20.png)
+
 ---
 
 ## Project Structure
