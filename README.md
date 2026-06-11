@@ -100,9 +100,9 @@ g++ "24I-0118_24I-2013_DS Project.cpp" -o MovieManager
 
 ```
 MOVIE-DATA-MANAGER/
--- 24I-0118_24I-2013_DS Project.cpp   # Main source file (all structures + logic)
--- movie_metadata.csv                  # IMDb 5000 dataset (required at runtime)
--- README.md
+   24I-0118_24I-2013_DS Project.cpp   # Main source file (all structures + logic)
+   movie_metadata.csv                  # IMDb 5000 dataset (required at runtime)
+   README.md
 ```
 
 ---
