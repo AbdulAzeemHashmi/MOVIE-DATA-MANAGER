@@ -48,18 +48,18 @@
 
 ## ✨ Features
 
-- 📄 **CSV Parser** — Custom built parser handles quoted fields, escaped characters, and malformed rows while loading 5000+ records from `movie_metadata.csv`
-- 🔍 **Search by Title** — O(log n) AVL tree lookup with case insensitive, whitespace trimmed matching
-- 🎭 **Search by Actor, Genre, or Director** — Hash table lookup returns all matching movies instantly
-- 📅 **Search by Year** — Full in order traversal filtered by release year
-- ⭐ **Search by Rating** — Range based traversal (e.g. 7.0 to 9.0)
-- 🌐 **BFS Recommendations** — Suggests movies by exploring the closest graph neighbors first (breadth first)
-- 🕳️ **DFS Recommendations** — Follows deep chains of related movies (depth first) for niche suggestions
-- 🛤️ **Shortest Path (Movies)** — Finds the minimum connection between two movies using BFS and parent pointer backtracking
-- 🤝 **Shortest Path (Actors/Directors)** — Finds how two people are connected through movies they share
-- 🎬 **Co Actor Finder** — Lists all actors who have appeared in movies alongside a given actor
-- ✏️ **Update Rating** — Modify the rating of any existing movie in place
-- 🗑️ **Delete Movie** — Removes a movie from the AVL tree, hash table indexes, and all graph adjacency lists cleanly
+- 📄 **CSV Parser** - Custom built parser handles quoted fields, escaped characters, and malformed rows while loading 5000+ records from `movie_metadata.csv`
+- 🔍 **Search by Title** - O(log n) AVL tree lookup with case insensitive, whitespace trimmed matching
+- 🎭 **Search by Actor, Genre, or Director** - Hash table lookup returns all matching movies instantly
+- 📅 **Search by Year** - Full in order traversal filtered by release year
+- ⭐ **Search by Rating** - Range based traversal (e.g. 7.0 to 9.0)
+- 🌐 **BFS Recommendations** - Suggests movies by exploring the closest graph neighbors first (breadth first)
+- 🕳️ **DFS Recommendations** - Follows deep chains of related movies (depth first) for niche suggestions
+- 🛤️ **Shortest Path (Movies)** - Finds the minimum connection between two movies using BFS and parent pointer backtracking
+- 🤝 **Shortest Path (Actors/Directors)** - Finds how two people are connected through movies they share
+- 🎬 **Co Actor Finder** - Lists all actors who have appeared in movies alongside a given actor
+- ✏️ **Update Rating** - Modify the rating of any existing movie in place
+- 🗑️ **Delete Movie** - Removes a movie from the AVL tree, hash table indexes, and all graph adjacency lists cleanly
 
 ---
 
