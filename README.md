@@ -152,6 +152,6 @@ MOVIE-DATA-MANAGER/
 [![GitHub followers](https://img.shields.io/github/followers/AbdulAzeemHashmi?style=social)](https://github.com/AbdulAzeemHashmi)
 [![Star History Chart](https://img.shields.io/github/stars/AbdulAzeemHashmi/Movie-Data-Manager?style=social)](https://github.com/AbdulAzeemHashmi/Movie-Data-Manager)
 
-Made with 💙 and a lot of pointer chasing by [Abdul Azeem](https://github.com/AbdulAzeemHashmi) and Abdul Ghafoor
+Made with 💙 and a lot of pointer chasing by Abdul Azeem and Abdul Ghafoor
 
 </div>
